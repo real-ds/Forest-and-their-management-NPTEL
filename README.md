@@ -32,7 +32,7 @@ The repository is organized on a weekly basis, making it easy to navigate and fi
     git clone [https://github.com/](https://github.com/)<your-username>/Forest-and-Their-Management-NPTEL.git
     ```
 2.  Navigate to the folder corresponding to the week's assignment you are interested in.
-3.  Open the solution file (e.g., `Assignment_1_Solutions.md`) to view the answers.
+3.  Open the solution file o view the answers.
 
 ## 🤝 Contributing
 
